@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @YouJaeBeom
-- 👀 I’m interested in Data enginering(Apach Kafka, Spark) and Data collect(Scrapy, Selenium) Framework 
-- 🌱 I’m currently learning Distributed Processing FrameWork (Kafka and Docker)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Data enginering(Hadoop Eco-system) and Data collect(Scrapy, Selenium) Framework 
+- 🌱 I’m currently learning Distributed Processing FrameWork
+
+## [PAPER]
+- Yoo Jae-beom, Kwon Hyuk-yoon*, "Tweet Collection Framework for Cyber Threat Analysis," a collection of Korean database conferences 2020, pp. 60-63, September 2020.
+- Jaebeom You, Jaekyu Lee, and Hyuk-Yoon Kwon, "A Complete and Fast Scraping Method for Collecting Tweets," In Proc. 2021 IEEE International Conference on Big Data and Smart Computing, pp. 24-27, Jan. 2021.
+
+
 
 <!---
 YouJaeBeom/YouJaeBeom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
