@@ -4,16 +4,14 @@
 
 ## [INTEREST]
 - Big Data
-  -  Data engineering
-    - Hadoop eco-system 
-  -  Data visualization
+  - Data engineering
+    -   Hadoop eco-system 
+  - Data visualization
     - ELK stack 
     - Tableau   
   -  Data workflow
 -  Data collection
-  -  Scrapy
-  -  Selenium
-  -  etc.. 
+    -  Crawling  
 -  Cloud computing
 
 ## [PAPER]
