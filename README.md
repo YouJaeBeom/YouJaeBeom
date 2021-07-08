@@ -14,6 +14,9 @@
 -  Data collection
     -  Crawling  
 -  Cloud computing
+-  Container 
+    -  Docker
+    -  Kubernetes
 
 ## [PAPER]
 - Yoo Jae-beom, Kwon Hyuk-yoon*, "Tweet Collection Framework for Cyber Threat Analysis," a collection of Korean database conferences 2020, pp. 60-63, September 2020.
