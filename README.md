@@ -9,13 +9,13 @@
 - DataBase
 - Big Data
   - Data engineering
-    -   Hadoop eco-system 
+    - Hadoop eco-system 
   - Data visualization
     - ELK stack 
     - Tableau   
   -  Data workflow
 -  Data collection
-    -  Crawling  
+    -  Crawling (Scrapy, Selenium)
 -  Cloud computing
 -  Container 
     -  Docker
