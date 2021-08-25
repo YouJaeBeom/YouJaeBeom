@@ -7,6 +7,8 @@
 
 ## [INTEREST]
 - DataBase
+  - RDB
+  - NOSQL
 - Big Data
   - Data engineering
     - Hadoop eco-system 
