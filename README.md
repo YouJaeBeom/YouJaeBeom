@@ -19,6 +19,8 @@
 -  Data collection
     -  Crawling (Scrapy, Selenium)
 -  Cloud computing
+    -  AWS
+    -  GCP 
 -  Container 
     -  Docker
     -  Kubernetes
