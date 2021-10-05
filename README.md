@@ -26,6 +26,8 @@
     -  Crawling (Scrapy, Selenium)
 -  Cloud computing
     -  AWS
+        - S3
+        - MSK 
     -  GCP 
 -  Container 
     -  Docker
