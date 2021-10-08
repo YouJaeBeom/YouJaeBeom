@@ -28,6 +28,7 @@
     -  AWS
         - S3
         - MSK 
+        - EC2
     -  GCP 
 -  Container 
     -  Docker
