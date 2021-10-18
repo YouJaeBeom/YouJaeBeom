@@ -22,6 +22,7 @@
     - ELK stack 
     - Tableau   
   -  Data workflow
+  -  Biased Dataset
 -  Data collection
     -  Crawling (Scrapy, Selenium)
 -  Cloud computing
