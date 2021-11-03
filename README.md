@@ -18,6 +18,8 @@
 - Big Data
   - Data engineering
     - Hadoop eco-system 
+    - Apache Kafka
+    - Apache Spark 
   - Data visualization
     - ELK stack 
     - Tableau   
