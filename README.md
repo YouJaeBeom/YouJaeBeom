@@ -12,7 +12,6 @@
       - MariaDB  
   - NOSQL
       - MongoDB  
-      - Neo4j
   - SQL
       - SQL 개발자   
 - Big Data
@@ -29,9 +28,6 @@
     -  Crawling (Scrapy, Selenium)
 -  Cloud computing
     -  AWS
-        - S3
-        - MSK 
-        - EC2
     -  GCP 
 -  Container 
     -  Docker
