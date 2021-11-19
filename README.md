@@ -12,8 +12,6 @@
       - MariaDB  
   - NOSQL
       - MongoDB  
-  - SQL
-      - SQL 개발자   
 - Big Data
   - Data engineering
     - Hadoop eco-system 
