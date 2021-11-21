@@ -7,11 +7,9 @@
 
 ## [INTEREST]
 - DataBase
-  - RDB
-      - MYSQL
-      - MariaDB  
-  - NOSQL
-      - MongoDB  
+  - MYSQL
+  - MariaDB  
+  - MongoDB  
 - Big Data
   - Data engineering
     - Hadoop eco-system 
