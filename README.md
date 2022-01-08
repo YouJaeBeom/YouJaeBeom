@@ -7,14 +7,13 @@
 
 ## [INTEREST]
 - DataBase
-- Big Data
-  - Data engineering
-    - Hadoop eco-system 
-    - Apache Kafka
-    - Apache Spark 
-  - Data visualization
-  -  Data workflow
-  -  Biased Dataset
+- Data engineering
+  - Hadoop eco-system 
+  - Apache Kafka
+  - Apache Spark 
+- Data visualization
+-  Data workflow
+-  Biased Dataset
 -  Data collection
     -  Crawling (Scrapy, Selenium)
 -  Cloud computing
