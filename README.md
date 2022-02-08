@@ -1,8 +1,8 @@
 <a href="https://www.notion.so/CV-fe43246a0aad4ec79a42d4a60bae0899" target="_blank"><img src="https://img.shields.io/badge/Portfolio-20c997?style=flat-square&logo=Notion&logoColor=white"/></a><a href="https://velog.io/@busybean3" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Notion&logoColor=white"/></a><a href="https://github.com/YouJaeBeom" target="_blank"><img src="https://img.shields.io/badge/Git-FFAE33?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 - 👋 Hi, I’m @YouJaeBeom
-- 👀 I’m interested in Data enginering(Hadoop Eco-system) and Data collect(Scrapy, Selenium) Framework 
-- 🌱 I’m currently learning Distributed Processing FrameWork
+- 👀 I’m interested in Distributed Data enginering pipeline and Data collection Framework
+- 🌱 I’m currently learning Distributed Processing FrameWork and container 
 
 
 ## [INTEREST]
