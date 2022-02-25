@@ -6,16 +6,16 @@
 
 
 ## [INTEREST]
-- DataBase
+-  Data collection
+    -  Crawling (Scrapy, Selenium)
 - Data engineering
   - Hadoop eco-system 
   - Apache Kafka
   - Apache Spark 
-- Data visualization
--  Data workflow
 -  Biased Dataset
--  Data collection
-    -  Crawling (Scrapy, Selenium)
+- DataBase
+-  Data visualization
+-  Data workflow
 -  Cloud computing
     - AWS   
 -  Container 
