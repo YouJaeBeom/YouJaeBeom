@@ -7,20 +7,13 @@
 
 ## [INTEREST]
 -  Data collection
-    -  Crawling (Scrapy, Selenium)
 - Data engineering
-  - Hadoop eco-system 
-  - Apache Kafka
-  - Apache Spark 
 -  Biased Dataset
 - DataBase
 -  Data visualization
 -  Data workflow
 -  Cloud computing
-    - AWS   
 -  Container 
-    -  Docker
-    -  Kubernetes
 
 ## [PROJECT]
 - 스트리밍 로그데이터에서 실시간 이상행위 탐지를 위한 플랫폼 개발, (주)삼오씨엔에스/대학혁신지원사업, 2021.6 ~ 2021.12 
