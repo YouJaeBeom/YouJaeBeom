@@ -7,11 +7,8 @@
 
 ## [INTEREST]
 -  Data collection
-- Data engineering
+-  Data engineering
 -  Biased Dataset
-- DataBase
--  Data visualization
--  Data workflow
 -  Cloud computing
 -  Container 
 
