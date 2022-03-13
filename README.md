@@ -1,7 +1,7 @@
 <a href="https://versed-gander-0ea.notion.site/CV-9e3f1879b06f4a9bacfb2ca7eecbd233" target="_blank"><img src="https://img.shields.io/badge/Portfolio-20c997?style=flat-square&logo=Notion&logoColor=white"/></a><a href="https://velog.io/@busybean3" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Notion&logoColor=white"/></a><a href="https://github.com/YouJaeBeom" target="_blank"><img src="https://img.shields.io/badge/Git-FFAE33?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 - 👋 Hi, I’m @YouJaeBeom
-- 👀 I’m interested in Distributed Data enginering pipeline and Data collection Framework
+- 👀 I’m interested in Distributed Data enginering pipeline, Data collection Framework and Data Reliability
 - 🌱 I’m currently learning Distributed Processing FrameWork and container 
 
 
