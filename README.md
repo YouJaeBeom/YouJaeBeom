@@ -8,6 +8,7 @@
 ## [INTEREST]
 -  Data collection Framework
 -  Data engineering , Pipeline
+-  Data Lake architecture
 -  Reliability Dataset
 -  Cloud computing
 -  Container 
