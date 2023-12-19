@@ -25,6 +25,7 @@
 - Jaebeom You, Jaekyu Lee, and Hyuk-Yoon Kwon, "A Complete and Fast Scraping Method for Collecting Tweets," In Proc. 2021 IEEE International Conference on Big Data and Smart Computing, pp. 24-27, Jan. 2021.
 - 유재범, 권혁윤*, "멀티 언어 설정 및 질의 확장을 통한 스트리밍 트윗 수집 범위 확장 방안," 한국정보과학회 2022한국컴퓨터종합학술대회 논문집, 2022년 6월 (Ack: NRF-2022R1F1A1067008 and P0017123 ). 
 - 진윤태, 유재범, 권혁윤*, "실시간 트윗 발생 위치 예측을 위한 학습 모델 파이프라인," 한국정보과학회 2022 한국소프트웨어종합학술대회, pp. 131-133, 2022년 12월 (Ack: NRF-2022R1F1A1067008 and NRF-2019R1A6A1A03032119).
+- You, J., Lee, K., & Kwon, H. Y. (2023). DeepScraper: A complete and efficient tweet scraping method using authenticated multiprocessing. Data & Knowledge Engineering, 102260.
 
 
 
