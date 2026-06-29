@@ -1,32 +1,53 @@
 <a href="https://firststep-de.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="https://github.com/YouJaeBeom" target="_blank"><img src="https://img.shields.io/badge/Git-FFAE33?style=flat-square&logo=Notion&logoColor=white"/></a>
 
-- 👋 Hi, I’m @YouJaeBeom
-- 👀 I’m interested in Distributed Data pipeline, Data collection System.
-- 🌱 I’m currently learning Distributed Processing FrameWork and Container based Infra
+# Hi, I'm Jaebeom You (유재범) 👋
 
-## [INTEREST]
--  Data collection system
--  Data engineering & Pipeline & Infra
--  Data warehose, Lake, Mesh, fabric
+**Ph.D. Candidate in Data Science** @ Seoul National University of Science and Technology (SeoulTech)
+🔬 BIGBASE Lab · Advised by Prof. Hyuk-Yoon Kwon
 
-## [PROJECT]
-- 비철금속제련 공정의 자동화를 위한 클라우드기반 데이터 관리기술 개발, (주)삼정이앤알, 2020.8 ~ 2021.3
-- 스트리밍 로그데이터에서 실시간 이상행위 탐지를 위한 플랫폼 개발, (주)삼오씨엔에스/대학혁신지원사업, 2021.6 ~ 2021.12
-- ASA 상관분석 기반 공격예측 ML 엔진개발을 위한 용역개발, AhnLab, 2022,03 ~ 2022.11
-- 실시간 이상행위 탐지를 위한 분산 데이터 파이프라인 기술, (주)삼오씨엔에스/대학혁신지원사업, 2022.06 ~ 2022.06
-- 사용자 행위 기반 웹서비스 노출정보 수집을 위한 웹 크롤링 기술 개발, (주)엠넷솔루션, 2022.7 ~ 2022.8
-- 반려동물 서비스 서버 개발, (주) DMP네트워크, 2023.04 ~
-- 악성코드 자동 추출 및 분석 기술 개발, -, 2023.05 ~
+I research **web bias, algorithmic fairness, and large-scale data pipelines**, with a current focus on **detecting and mitigating political bias** across search engines, large language models, and retrieval-augmented generation (RAG).
 
+---
 
-## [PAPER]
-- Yoo Jae-beom, Kwon Hyuk-yoon*, "Tweet Collection Framework for Cyber Threat Analysis," a collection of Korean database conferences 2020, pp. 60-63, September 2020.
-- Jaebeom You, Jaekyu Lee, and Hyuk-Yoon Kwon, "A Complete and Fast Scraping Method for Collecting Tweets," In Proc. 2021 IEEE International Conference on Big Data and Smart Computing, pp. 24-27, Jan. 2021.
-- 유재범, 권혁윤*, "멀티 언어 설정 및 질의 확장을 통한 스트리밍 트윗 수집 범위 확장 방안," 한국정보과학회 2022한국컴퓨터종합학술대회 논문집, 2022년 6월 (Ack: NRF-2022R1F1A1067008 and P0017123 ). 
-- 진윤태, 유재범, 권혁윤*, "실시간 트윗 발생 위치 예측을 위한 학습 모델 파이프라인," 한국정보과학회 2022 한국소프트웨어종합학술대회, pp. 131-133, 2022년 12월 (Ack: NRF-2022R1F1A1067008 and NRF-2019R1A6A1A03032119).
-- You, J., Lee, K., & Kwon, H. Y. (2023). DeepScraper: A complete and efficient tweet scraping method using authenticated multiprocessing. Data & Knowledge Engineering, 102260.
+## 🔍 Research Interests
 
+- **Algorithmic Fairness & Bias** — political bias in LLMs, search engines, and web corpora
+- **Information Retrieval** — fair retrieval, RAG, filter bubbles, and personalization effects
+- **Large-Scale Data Pipelines** — web/social data collection and distributed graph representation learning
+
+---
+
+## 📄 Publications
+
+> Author names: **bold** = me · `*` = corresponding author
+
+### International Conferences
+
+- **FAIR-RAG: An End-to-End Framework for Mitigating Political Bias through Fair Retrieval-Augmented Generation**
+  *SIGIR 2026* · **Jaebeom You**, Kisung Lee, Hyuk-Yoon Kwon\*
+- **[Geo-Personalization Bias in News Search: Analyzing Filter Bubbles in Search Engine Results with Multi-Perspective LLM Annotation](https://dl.acm.org/doi/abs/10.1145/3773966.3777984)**
+  *WSDM 2026 (Oral)* · **Jaebeom You**, Seung-Kyu Hong, Ling Liu, Kisung Lee, Hyuk-Yoon Kwon\*
+- **[From Data to Model in Bias: A Statistical Analysis of Political Bias in the C4 Corpus and Its Impact on LLMs](https://dl.acm.org/doi/abs/10.1145/3773966.3777990)**
+  *WSDM 2026 (Oral)* · **Jaebeom You**, Jaewon Lee, Sehun Lee, Hyuk-Yoon Kwon\*
+- **[FAIR-SE: Framework for Analyzing Information Disparities in Search Engines with Diverse LLM-Generated Personas](https://dl.acm.org/doi/10.1145/3746252.3761361)**
+  *CIKM 2025 (Oral)* · **Jaebeom You**, Seung-Kyu Hong, Ling Liu, Kisung Lee, Hyuk-Yoon Kwon\*
+- **[A Complete and Fast Scraping Method for Collecting Tweets](https://ieeexplore.ieee.org/document/9373132)**
+  *IEEE BigComp 2021* · **Jaebeom You**, Jaekyu Lee, Hyuk-Yoon Kwon\*
+
+### Journals
+
+- **[DeepScraper: A Complete and Efficient Tweet Scraping Method Using Authenticated Multiprocessing](https://www.sciencedirect.com/science/article/pii/S0169023X23001209)**
+  *Data & Knowledge Engineering, 2024 (SCIE)* · **Jaebeom You**, Kisung Lee, Hyuk-Yoon Kwon\*
+- **[Analyzing User Reactions Using Relevance Between Location Information of Tweets and News Articles](https://link.springer.com/article/10.1140/epjds/s13688-024-00465-2)**
+  *EPJ Data Science, 2024 (SSCI/SCIE Q1, Top 15%)* · Yun-Tae Jin, **Jaebeom You**, Shoko Wakamiya, Hyuk-Yoon Kwon
+
+### Domestic Conferences (Korea)
+
+- **대규모 그래프 표현 학습을 위한 커뮤니티 기반 분산 Node2Vec** — *KCC 2025* · 김혁, **유재범**, 권혁윤\*
+- **실시간 트윗 발생 위치 예측을 위한 학습 모델 파이프라인** — *KSC 2022* · 진윤태, **유재범**, 권혁윤\*
+- **멀티 언어 설정 및 질의 확장을 통한 스트리밍 트윗 수집 범위 확장 방안** — *KCC 2022* · **유재범**, 권혁윤\*
+- **사이버 위협 분석을 위한 트윗 수집 프레임워크** — *KDBC 2020* · **유재범**, 권혁윤\*
 
 
 <!---
