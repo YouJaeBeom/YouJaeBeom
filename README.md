@@ -1,4 +1,4 @@
-<a href="https://firststep-de.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://busybeans.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="https://github.com/YouJaeBeom" target="_blank"><img src="https://img.shields.io/badge/Git-FFAE33?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 # Hi, I'm Jaebeom You (유재범) 👋
@@ -12,7 +12,7 @@ I research **web bias, algorithmic fairness, and large-scale data pipelines**, w
 
 ## 🔍 Research Interests
 
-- **Algorithmic Fairness & Bias** — political bias in LLMs, search engines, and web corpora
+- **Web Fairness & Bias** — political bias in LLMs, search engines, and web corpora
 - **Information Retrieval** — fair retrieval, RAG, filter bubbles, and personalization effects
 - **Large-Scale Data Pipelines** — web/social data collection and distributed graph representation learning
 
